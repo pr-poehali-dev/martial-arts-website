@@ -63,14 +63,10 @@ export default {
 					ring: 'hsl(var(--sidebar-ring))'
 				},
 				boxing: {
-					blue: '#0EA5E9',
-					orange: '#F97316', 
-					green: '#10B981',
-					purple: '#8B5CF6',
-					yellow: '#F59E0B',
-					pink: '#EC4899',
-					dark: '#0F172A',
-					light: '#F8FAFC',
+					black: '#1A1A1A',
+					red: '#D2202D', 
+					gray: '#2D2D2D',
+					white: '#FFFFFF',
 				}
 			},
 			fontFamily: {
