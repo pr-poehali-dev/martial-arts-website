@@ -61,7 +61,17 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				boxing: {
+					black: '#1A1A1A',
+					red: '#D2202D', 
+					gray: '#2D2D2D',
+					white: '#FFFFFF',
 				}
+			},
+			fontFamily: {
+				'oswald': ['Oswald', 'sans-serif'],
+				'roboto': ['Roboto', 'sans-serif'],
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
